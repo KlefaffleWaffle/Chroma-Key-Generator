@@ -7,8 +7,6 @@ Prosumer video editing tools like Final Cut, Adobe Premiere, and Davinci Resolve
 # Solution
 This software allows you to use your monitor as a background for your footage that can be any color value you like. You are not bound by the constraints of green or blue colors. That allows you to use both green and blue and many other colors simultaneously. While in practice, this only works for filming and photographing things that are smaller in scale, with larger consumer tvs, you can film and photograph something, with a max dimension of almost 4 feet. Even still we have seen similar technology being used in major motion pictures like Superman (2025).
 
-https://github.com/user-attachments/assets/ce440764-10fb-4333-bf9a-e08dd2048461
-
 # Problem Statement 2
 Another issue of consumer green screens is that inconsistent lighting can cause severe issues while chroma keying. Generally to avoid this, you need proper lighting which also generally requires the screen to be flat to avoid shadows and discoloration. Proper lighting can be hard to achieve. For productions with minimal budget and crew, you might waste a whole day filming only to realize, the green screen is unusable and therefore the whole day is unusable. 
 
