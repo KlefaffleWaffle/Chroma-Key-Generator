@@ -13,9 +13,7 @@ https://github.com/user-attachments/assets/ce440764-10fb-4333-bf9a-e08dd2048461
 Another issue of consumer green screens is that inconsistent lighting can cause severe issues while chroma keying. Generally to avoid this, you need proper lighting which also generally requires the screen to be flat to avoid shadows and discoloration. Proper lighting can be hard to achieve. For productions with minimal budget and crew, you might waste a whole day filming only to realize, the green screen is unusable and therefore the whole day is unusable. 
 
 # Solution
-This software solves that issue, because you can guarantee consistency in the colors. The screen is not reflecting light, it is emanating light.
-
-In practice, this proved more capable than anticipated; during a demonstration, the tool performed well enough to successfully film green on green.
+This software solves that issue, because you can guarantee consistency in the colors. The screen emanates light rather than reflecting it, which means you have precise control over the exact RGB value being output. In practice, this proved more capable than anticipated. As I was filming a demonstration, the tool performed well enough to successfully film green on green.
 
 *See demonstration 2
 
