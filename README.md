@@ -15,9 +15,9 @@ Another issue of consumer green screens is that inconsistent lighting can cause 
 # Solution
 This software solves that issue, because you can guarantee consistency in the colors. The screen emanates light rather than reflecting it, which means you have precise control over the exact RGB value being output. In practice, this proved more capable than anticipated. As I was filming a demonstration, the tool performed well enough to successfully film green on green.
 
-*See demonstration 2
+<img width="4032" height="3024" alt="20260503_083144" src="https://github.com/user-attachments/assets/e01dc351-5eb4-4823-822b-69e9fe2ef15a" />
 
-
+https://github.com/user-attachments/assets/ca16f15b-ad94-4526-840e-dd217b40d1fc
 
 
 # Problem Statement 3
@@ -29,10 +29,7 @@ This software only requires a monitor and a computer to run it on. The screen ca
 # Demonstration
 https://github.com/user-attachments/assets/88ba30de-a733-4307-84f7-064affad162c
 
-# Demonstration 2
-<img width="4032" height="3024" alt="20260503_083144" src="https://github.com/user-attachments/assets/e01dc351-5eb4-4823-822b-69e9fe2ef15a" />
 
-https://github.com/user-attachments/assets/ca16f15b-ad94-4526-840e-dd217b40d1fc
 
 # Final Note
 The results were so clean, if I didn't already know it was raw footage, I would swear it was already composited. This is a seperate photo to illustrate that it really is the monitor creating the background
