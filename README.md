@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/88ba30de-a733-4307-84f7-064affad162c
 https://github.com/user-attachments/assets/ca16f15b-ad94-4526-840e-dd217b40d1fc
 
 # Final Note
-The results were so clean, if I didn't already know it was raw footage, I would swear it was already composited. (This was a sepearte photo to illustrate that it really is the monitor creating the background)
+The results were so clean, if I didn't already know it was raw footage, I would swear it was already composited. (This was a seperate photo to illustrate that it really is the monitor creating the background)
 <img width="4032" height="3024" alt="20260503_091841" src="https://github.com/user-attachments/assets/1da065ef-0abc-4fff-b41c-8ad05d85b412" />
 
 
