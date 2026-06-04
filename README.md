@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/ca16f15b-ad94-4526-840e-dd217b40d1fc
 Film equipment, especially mid to high quality equipment, is expensive. On Amazon, a large green screen can run $40 without a stand to hang it. A green screen with a stand can run $100-$200. Lights can easily run you another $80. That's $200-$300 just for the green screen. No actors, no camera, no editing software, no props, no costumes. That's just a green screen.
 
 # Solution
-This software only requires a monitor and a computer to run it on. The screen can be a computer monitor or a television, which many people already own. 
+This software only requires a monitor and a computer to run it on. The screen can be a computer monitor or a television, which many people already own. And because this program is coded in Python, it's portable, meaning it runs on all major operating systems (Linux, MacOS, Windows).
 
 # Demonstration
 https://github.com/user-attachments/assets/88ba30de-a733-4307-84f7-064affad162c
