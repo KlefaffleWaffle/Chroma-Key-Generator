@@ -18,6 +18,11 @@ This software solves that issue, because you can guarantee consistency in the co
 https://github.com/user-attachments/assets/ca16f15b-ad94-4526-840e-dd217b40d1fc
 
 
+
+https://github.com/user-attachments/assets/5fdb80b4-427d-40d9-aac6-9d54dc0ea2f9
+
+
+
 # Problem Statement 3
 Film equipment, especially mid to high quality equipment, is expensive. On Amazon, a large green screen can run $40 without a stand to hang it. A green screen with a stand can run $100-$200. Lights can easily run you another $80. That's $200-$300 just for the green screen. No actors, no camera, no editing software, no props, no costumes. That's just a green screen.
 
